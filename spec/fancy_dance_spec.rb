@@ -1,3 +1,4 @@
+
 describe 'FancyDance::InstanceMethods module' do
   let(:dummy_class) { Class.new { include FancyDance::InstanceMethods }.new }
 
